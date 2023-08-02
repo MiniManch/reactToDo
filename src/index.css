@@ -1,0 +1,63 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.Powder-Blue {
+  color: rgb(176, 224, 230);
+  background-color: rgb(176, 224, 230);
+}
+
+.Lavender {
+  color: rgb(230, 230, 250);
+  background-color: rgb(230, 230, 250);
+}
+
+.Aquamarine {
+  color: rgb(127, 255, 212);
+  background-color: rgb(127, 255, 212);
+}
+
+.Mint-Green {
+  color: rgb(152, 255, 152);
+  background-color: rgb(152, 255, 152);
+}
+
+.Sky-Blue {
+  color: rgb(135, 206, 235);
+  background-color: rgb(135, 206, 235);
+}
+
+.Pale-Pink {
+  color: rgb(255, 218, 185);
+  background-color: rgb(255, 218, 185);
+}
+
+.Lilac {
+  color: rgb(200, 162, 200);
+  background-color: rgb(200, 162, 200);
+}
+
+.Peach {
+  color: rgb(255, 218, 185);
+  background-color: rgb(255, 218, 185);
+}
+
+.Pastel-Green {
+  color: rgb(119, 221, 119);
+  background-color: rgb(119, 221, 119);
+}
+
+.Periwinkle {
+  color: rgb(204, 204, 255);
+  background-color: rgb(204, 204, 255);
+}
