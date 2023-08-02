@@ -4,7 +4,8 @@ Sure! Below is an example of a fun and explanatory README file for your TodoList
 
 Welcome to the TodoList app! This is a simple and cute web application that allows you to create and manage your daily tasks and to-dos. 🌟
 
-!(https://ibb.co/x8xy4LY)
+![TodoList App Screenshot](https://i.ibb.co/qFTzZjC/todo.png)
+
 
 ## 🚀 Getting Started
 
